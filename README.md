@@ -5,7 +5,7 @@ this is a simple batch script that will let you repair your windows pc
 ----------------------------------------------------------
 is this malware ??
 -------------------------------------------------------
-no this isn't malware it's full open source
+no this isn't malware it's fully open source
 ---------------------------------------------
 how do i run this  ?
 -----------------------------------------------
